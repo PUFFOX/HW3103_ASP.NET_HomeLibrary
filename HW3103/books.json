@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Title": "Example Book 1",
+    "Author": "Author 1",
+    "Genre": "Genre 1",
+    "Publisher": "Publisher 1",
+    "Year": 2001
+  },
+  {
+    "Id": 2,
+    "Title": "Example Book 2",
+    "Author": "Author 2",
+    "Genre": "Genre 2",
+    "Publisher": "Publisher 2",
+    "Year": 2002
+  },
+  {
+    "Id": 3,
+    "Title": "парра",
+    "Author": "рпа",
+    "Genre": "пар",
+    "Publisher": "рпа",
+    "Year": 546
+  },
+  {
+    "Id": 5,
+    "Title": "Holly",
+    "Author": "Stephen King",
+    "Genre": "Horror",
+    "Publisher": "Kerri",
+    "Year": 2023
+  }
+]
